@@ -1,0 +1,25 @@
+.banner {
+    position: relative;
+}
+
+.banner__background {
+    width: 100%;
+}
+
+.banner__principal {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-80%);
+    margin: 3rem;
+}
+
+.principal__info {
+    color: #FFFFFF;
+}
+
+.principal__player {
+    width: 50%;
+}

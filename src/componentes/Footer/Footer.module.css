@@ -1,0 +1,9 @@
+.footer {
+    background-color: #000000E5;
+}
+
+.footer__logo {
+    display: block;
+    margin: 0 auto;
+    padding: 2rem;
+}
